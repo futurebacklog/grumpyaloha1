@@ -9,10 +9,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🚀 About Me
-> Data Scientist with a unique blend of expertise in Machine Learning, Azure Cloud Technologies, and Sattelite Engineering. Currently driving data-driven solutions at Zenfold Labs.
+> Data Scientist with a unique blend of Machine Learning, Azure Cloud Technologies, and Sattelite Engineering expertise. Currently driving data-driven solutions at Zenfold Labs.
 
 - 🔭 I'm currently working as a **Data Scientist at Zenfold Labs**
-- 🌱 I'm currently learning **Ocean Engineering** at UH Manoap
+- 🌱 I'm currently learning **Ocean Engineering** at UH Manoa
 - 💼 Previously managed **Classified**
 - 📝 I regularly write articles on [Medium](https://medium.com/@grumpyaloha)
 - 💡 I'm passionate about oceanography and computer science
@@ -61,14 +61,6 @@
 - ☁️ **AWS Cloud Data Analytics Pipeline** - Built end-to-end data processing system
 - 💱 **Real-Time Cryptocurrency Analytics** - Implemented streaming data analysis
 - 📊 ** Data Processing** - Developed real-time data processing pipeline
-
--## 📈 GitHub Stats
-
-div align="center">
-  img src="https://github-readme-stats.vercel.app/api?username=mmehmetisik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  br/>
-  img src="https://github-readme-streak-stats.herokuapp.com/?user=mmehmetisik&theme=tokyonight" alt="GitHub Streak" />
-/div>
 
 ## 🎓 Professional Development
 
