@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <div align="center">
   <h1>Hi there, I'm Davo Adams 👋</h1>
   
@@ -81,9 +87,4 @@
   <a href="https://medium.com/@grumpyaloha">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="75"/>
   </a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=mmehmetisik&color=blue&style=for-the-badge" alt="Profile Views" height="40"/>
 </div>
